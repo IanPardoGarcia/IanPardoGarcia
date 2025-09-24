@@ -17,7 +17,7 @@ Passionate about **generative AI**, **reinforcement learning**, and creating pro
 
 ## 🤝 Let’s Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/ian-pardo/])  
+- [LinkedIn](https://www.linkedin.com/in/ian-pardo/)
 
 ---
 
