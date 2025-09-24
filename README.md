@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Ian Pardo García
 
-<!--
-**IanPardoGarcia/IanPardoGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about **generative AI**, **reinforcement learning**, and creating projects that blend technology with videogames.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Master’s degree in Artificial Intelligence  
+- 🕹️ Exploring deep reinforcement learning applied to videogames  
+- 🎥 Content creator at heart, interested in interactive projects and streaming 100% game completions  
+- 💡 Interests: AI, conversational bots, video editing, and interactive experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech & Tools
+- **Languages:** Python, JavaScript  
+- **AI / ML:** PyTorch, TensorFlow, Stable Baselines3  
+- **Other:** Git, Docker, OBS, video-editing tools
+
+## 📌 Highlighted Projects
+*Coming soon! Stay tuned for exciting AI and gaming projects.*
+
+## 🤝 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+
+---
+
+*Always learning, building, and sharing!*
