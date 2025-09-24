@@ -5,8 +5,7 @@ Passionate about **generative AI**, **reinforcement learning**, and creating pro
 ## 🚀 About Me
 - 🎓 Master’s degree in Artificial Intelligence  
 - 🕹️ Exploring deep reinforcement learning applied to videogames  
-- 🎥 Content creator at heart, interested in interactive projects and streaming 100% game completions  
-- 💡 Interests: AI, conversational bots, video editing, and interactive experiences
+- 💡 Interests: AI, conversational bots and interactive experiences
 
 ## 🛠️ Tech & Tools
 - **Languages:** Python, JavaScript  
@@ -18,7 +17,7 @@ Passionate about **generative AI**, **reinforcement learning**, and creating pro
 
 ## 🤝 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/ian-pardo/))  
 
 ---
 
